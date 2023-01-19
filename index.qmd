@@ -138,7 +138,7 @@ Berdasarkan tabel diatas, dapat dilihat perkembangan produktivitas kakao Indones
 | F-Statistic        | 0.7677   |
 | Prob (F-Statistic) | 0.4304   |
 
-Produksi kakao tidak berpengaruh terhadap produktivitas. Ditunjukkan dengan dilihat dari probabilitas X (Produktivitas) yang tidak berpengaruh. Dimana produksi sering menjadi faktor yang dapat mendorong naik dan turunnya produktivitas. Nilai koefisien produksi sebesar 1353905.6 yang berarti kenaikan perubahan produksi tidak berpengaruh terhadap produktivitas. Dengan hasil ini maka dapat disimpulkan bahwa produksi kakao tidak berpengaruh terhadap produktivitas.
+Produksi kakao tidak berpengaruh terhadap produktivitas. Ditunjukkan dengan dilihat dari probabilitas X (Produksi) yang tidak berpengaruh. Dimana produksi sering menjadi faktor yang dapat mendorong naik dan turunnya produktivitas. Nilai koefisien produksi sebesar 1353905.6 yang berarti kenaikan perubahan produksi tidak berpengaruh terhadap produktivitas. Dengan hasil ini maka dapat disimpulkan bahwa produksi kakao tidak berpengaruh terhadap produktivitas.
 
 Hasil regresinya adalah
 
